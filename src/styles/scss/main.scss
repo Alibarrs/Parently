@@ -1,0 +1,9 @@
+@import '~bootstrap/scss/bootstrap';
+
+$primary: #ffb9b9;
+$beige: #ffddd2;
+$pink-soft: #ffacc7;
+$pink-light: #ff8dc7;
+
+@import 'components/navbar';
+@import 'components/hero';
